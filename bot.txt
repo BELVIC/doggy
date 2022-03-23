@@ -1,0 +1,5 @@
+{
+	"ip":" YFthanks.aternos.me:47706",
+	"port": "47706",
+	"name": "creeper"
+}
